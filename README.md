@@ -8,4 +8,5 @@
 *Componentes:*
 
 `Timeline`: Este es el componente principal del timeline.
+
 `Item`: Acá tendremos cada elemento individual del timeline que seran los NGOLD repartidos en el AirDrop.
