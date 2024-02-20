@@ -47,7 +47,7 @@ const App = () => {
                       className={item.achieved ? 'achieved' : ''}
                     >
                       <input
-                        type="check"
+                        type="checkbox"
                         checked={item.achieved}
                         onChange={() => handleAchievedChange(item.id)}
                       />
