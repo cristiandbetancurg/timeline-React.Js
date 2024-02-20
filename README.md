@@ -9,4 +9,8 @@
 
 `Timeline`: Este es el componente principal del timeline.
 
+`Draggable:` Componente para hacer que los elementos del timeline puedan ser draggables.
+
+`Droppable:` Componente para poder definir todas las áreas  en donde se pueda colocar todos los elementos del timeline.
+
 
