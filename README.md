@@ -5,7 +5,7 @@
 
 ### Librería: Para crear el timeline, usaremos la librería `react-beautiful-dnd`
 
-*Componentes:*
+#### *Componentes:*
 
 `Timeline`: Este es el componente principal del timeline.
 
@@ -14,7 +14,7 @@
 `Droppable:` Componente para poder definir todas las áreas  en donde se pueda colocar todos los elementos del timeline.
 
 
-### *Code:*
+#### *Code:*
 
 `useState`: Se utiliza para mantener el estado de los items del timeline.
 
